@@ -8,7 +8,7 @@ for cities and towns to use if they need to place new emergency facilities in th
 
 ## Code:
 
-* We decided to implement Dijkstra's algorithm to find the distance from all of the sources in the map to all of the other nodes. From here we decided to see their average distance and the maximum distance.
+* We decided to implement Dijkstra's algorithm (https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/) to find the distance from all of the sources in the map to all of the other nodes. From here we decided to see their average distance and the maximum distance.
 
 ## How to use code:
 

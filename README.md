@@ -1,4 +1,4 @@
-# Emergency Facility Location Problem Rio Rancho
+# Emergency Facility Location Problem: Rio Rancho
 
 ## Why are this problem?
 * In this model we are attempting to find the optimal location to place two emergency locations in order to minimize
